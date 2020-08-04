@@ -16,7 +16,7 @@ exclude: [vendor]
 author:
   name: Aðalsteinn Kornelíus Gunnarsson
   title: Kornelius
-  address: MI, Vandalia
+  address: MI, Vandalia, USA
   email: adalsteinn@kornelius.is
   link: https://www.kornelius.is
  # weibo:
@@ -28,12 +28,15 @@ author:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Icelandair
+      location: Reykjavík, Iceland
+      title: Revenue Management Analyst
+      started: 2018
+      duration: (2018 - Present)
+      description: ▪ Make sure that revenue and yield is maximized and Icelandair’s competitive position is maintained on a regional & network basis
+o Optimizing route portfolio of 100M. dollars annually
+▪ Deliver commercial revenue & budget targets for my assigned portfolio
+▪ Communication and collaboration with key stakeholders 
     - work2:
       company: XXX Ltd
       location: Shanghai, China
