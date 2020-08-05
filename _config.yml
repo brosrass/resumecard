@@ -64,7 +64,7 @@ author:
       major: Licensed Securities Dealer Investment and Securities
       started: 2017
       duration: (2017 - 2018)
-      description: Law, financial markets and business administration
+      description: Securities broker | Law, financial markets and business administration curriculum.
     - education3: 
       organization: Grenoble Ecole De Management
       location: Grenoble, France
@@ -91,7 +91,7 @@ author:
     - language3:
       name: Danish
       proficiency: Limit
-  programmingSkills:
+  Skills:
     - skill1:
       name: Presentations
       percentage: 100%
