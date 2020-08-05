@@ -47,7 +47,7 @@ author:
                     | Managed various marketing and business development projects with internal and external stakeholders to make ideas into implementation.
                     | Worked with various departments to work on available financial opportunities
                     | Delivered on the long-term vision and strategy of the company through evaluation and implementation of strategic initiatives, financial management, planning and budgeting.
-    educationHistory:
+  educationHistory:
     - education1: 
       organization: Copenhagen Business School
       location: Copenhagen, Denmark
@@ -57,7 +57,7 @@ author:
       duration: (2012 - 2016)
       description: With this degree I acquired the necessary skills to start a business, create innovations, manage change and resources, and lead others in the process of turning a new idea into a viable business
                   | Leadership in Creative Organizations & Management and Organization in the Creative Society
-      - education2: 
+    - education2: 
       organization: Ministry of Finance and Economic
       location: Reykjavík, Iceland
       degree: Diploma
@@ -65,7 +65,7 @@ author:
       started: 2017
       duration: (2017 - 2018)
       description: Law, financial markets and business administration
-      - education3: 
+    - education3: 
       organization: Grenoble Ecole De Management
       location: Grenoble, France
       degree: MIM., Master in Management
@@ -73,7 +73,7 @@ author:
       started: 2013
       duration: (2013 - 2014)
       description: Exchange Program from Copenhagen Business School | CMIRA scholarship | Managing Cultural Diversity
-      - education4: 
+    - education4: 
       organization: University of Reykjavík, Iceland
       location: Reykjavík, Iceland
       degree: Bachelor
@@ -83,21 +83,21 @@ author:
       description: Bachelor degree
   languages:
     - language1:
-      name: Chinese
+      name: Icelandic
       proficiency: Native
     - language2:
       name: English
       proficiency: Professional
     - language3:
-      name: Japanese
+      name: Danish
       proficiency: Limit
   programmingSkills:
     - skill1:
       name: HTML
-      percentage: 100%
+      percentage: 20%
     - skill2:
-      name: Bootstrap
-      percentage: 90%
+      name: Google
+      percentage: 100%
     - skill3:
       name: JavaScript
       percentage: 70%
