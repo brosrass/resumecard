@@ -47,22 +47,40 @@ author:
                     | Managed various marketing and business development projects with internal and external stakeholders to make ideas into implementation.
                     | Worked with various departments to work on available financial opportunities
                     | Delivered on the long-term vision and strategy of the company through evaluation and implementation of strategic initiatives, financial management, planning and budgeting.
-    - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
+    educationHistory:
+    - education1: 
+      organization: Copenhagen Business School
+      location: Copenhagen, Denmark
+      degree: Masters
+      major: MSoSc., Organizational Innovation and Entrepreneurship
+      started: 2012
+      duration: (2012 - 2016)
+      description: With this degree I acquired the necessary skills to start a business, create innovations, manage change and resources, and lead others in the process of turning a new idea into a viable business
+                  | Leadership in Creative Organizations & Management and Organization in the Creative Society
+      - education2: 
+      organization: Ministry of Finance and Economic
+      location: Reykjavík, Iceland
+      degree: Diploma
+      major: Licensed Securities Dealer Investment and Securities
+      started: 2017
+      duration: (2017 - 2018)
+      description: Law, financial markets and business administration
+      - education3: 
+      organization: Grenoble Ecole De Management
+      location: Grenoble, France
+      degree: MIM., Master in Management
+      major: Master in Management
+      started: 2013
+      duration: (2013 - 2014)
+      description: Exchange Program from Copenhagen Business School | CMIRA scholarship | Managing Cultural Diversity
+      - education4: 
+      organization: University of Reykjavík, Iceland
+      location: Reykjavík, Iceland
+      degree: Bachelor
+      major: Bsc., Business Administration
       started: 2009
       duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-  educationHistory:
-    - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: Bachelor degree
   languages:
     - language1:
       name: Chinese
