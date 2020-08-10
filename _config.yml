@@ -55,8 +55,9 @@ author:
       major: MSoSc., Organizational Innovation and Entrepreneurship
       started: 2012
       duration: (2012 - 2016)
-      description: With this degree I acquired the necessary skills to start a business, create innovations, manage change and resources, and lead others in the process of turning a new idea into a viable business
-                  | Leadership in Creative Organizations & Management and Organization in the Creative Society
+      description: With this degree I acquired the necessary skills to start a business, create innovations, manage change and resources
+      description2: and lead others in the process of turning a new idea into a viable business
+      description3: Leadership in Creative Organizations & Management and Organization in the Creative Society  
     - education2: 
       organization: Ministry of Finance and Economic
       location: Reykjavík, Iceland
@@ -73,7 +74,9 @@ author:
       major: Master in Management
       started: 2013
       duration: (2013 - 2014)
-      description: Exchange Program from Copenhagen Business School | CMIRA scholarship | Managing Cultural Diversity
+      description: Exchange Program from Copenhagen Business School
+      description2: CMIRA scholarship
+      description3: Managing Cultural Diversity
     - education4: 
       organization: University of Reykjavík, Iceland
       location: Reykjavík, Iceland
