@@ -81,12 +81,13 @@ layout: default
                                     </p>
                                 </div>
                                 <div class="timeline-body">
+                                    <ul>
                                     {% if education.description %}
-                                        <p>{{ education.description }}</p>
+                                        <li>{{ education.description }}</p>
                                     {% endif %}
                                       {% if education.description2 %}
-                                        <p>{{ education.description2 }}</p>
-                                    
+                                        <li>{{ education.description2 }}</p>
+                                    </ul>
                                     {% endif %}
                                 </div>
                             </div>
