@@ -34,9 +34,9 @@ author:
       started: 2018
       duration: (2018 - Present)
       description: Make sure that revenue and yield is maximized and Icelandair’s competitive position is maintained on a regional & network basis
-                | Optimizing route portfolio of 100M. dollars annually
-                | Deliver commercial revenue & budget targets for my assigned portfolio
-                | Communication and collaboration with key stakeholders 
+      description2: Optimizing route portfolio of 100M. dollars annually
+      description3: Deliver commercial revenue & budget targets for my assigned portfolio
+      description4: Communication and collaboration with key stakeholders 
     - work2:
       company: Icelandair Cargo
       location: Reykjavík, Iceland
@@ -44,9 +44,9 @@ author:
       started: 2015
       duration: (2015 - 2018)
       description: Cross project management
-                    | Managed various marketing and business development projects with internal and external stakeholders to make ideas into implementation.
-                    | Worked with various departments to work on available financial opportunities
-                    | Delivered on the long-term vision and strategy of the company through evaluation and implementation of strategic initiatives, financial management, planning and budgeting.
+      description2: Managed various marketing and business development projects with internal and external stakeholders to make ideas into implementation.
+      description3: Worked with various departments to work on available financial opportunities
+      description4: Delivered on the long-term vision and strategy of the company through evaluation a nd implementation of strategic initiatives, financial management, planning and budgeting
   educationHistory:
     - education1: 
       organization: Copenhagen Business School
