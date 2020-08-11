@@ -36,16 +36,20 @@ layout: default
                                     </p>
                                 </div>
                                 <div class="timeline-body">
+                                    <ul>
                                     {% if work.description %}
-                                        <p>{{ work.description }}</p>
+                                        <li>{{ work.description }}</li>
                                     {% endif %}
                                     {% if work.description2 %}
-                                        <p>{{ work.description2 }}</p>
+                                        <li>{{ work.description2 }}</li>
                                     {% endif %}
                                     {% if work.description3 %}
-                                        <p>{{ work.description3 }}</p>
+                                        <li>{{ work.description3 }}</li>
                                     {% endif %}
-                                      
+                                      {% if work.description4 %}
+                                        <li>{{ work.description4 }}</li>
+                                    {% endif %}
+                                    </ul>
                                 </div>
                             </div>
                         </li>
